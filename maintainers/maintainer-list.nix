@@ -2535,6 +2535,11 @@
     github = "jraygauthier";
     name = "Raymond Gauthier";
   };
+  jtobin = {
+    email = "jared@jtobin.io";
+    github = "jtobin";
+    name = "Jared Tobin";
+  };
   jtojnar = {
     email = "jtojnar@gmail.com";
     github = "jtojnar";
